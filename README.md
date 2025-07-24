@@ -50,4 +50,5 @@ Sou movido pelo desafio de transformar ideias complexas em soluções técnicas 
 
 ![Gengo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gengo250&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gengo250&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
