@@ -3,11 +3,23 @@
 
 ### 👨‍💻 Sobre mim
 
-Engenheiro da computação com formação em **Robótica, Sistemas Embarcados e Programação Avançada**, aplicando **ROS 2**, **C++**, **Java** e **Python** para construir soluções de alta performance, escaláveis e voltadas a desafios reais.
+Engenheiro da Computação com formação sólida em Robótica, Sistemas Embarcados e Programação Avançada, com foco no desenvolvimento de soluções escaláveis, performáticas e voltadas à resolução de desafios técnicos reais.
 
-Atuo com desenvolvimento de **sistemas robóticos inteligentes**, interfaces gráficas em **Java/Swing**, e automações Python focadas na resolução de problemas lógicos e computacionais — incluindo colaborações com o **Museu da Matemática**, onde desenvolvi algoritmos para desafios educacionais complexos.
+Tenho experiência prática com ROS 2 para controle de robôs e comunicação distribuída em tempo real, utilizando C++ moderno e princípios de arquitetura limpa. Trabalho também com automação inteligente em Python, aplicando lógica algorítmica para resolver problemas computacionais e educacionais — como nos desafios colaborativos com o Museu da Matemática.
 
-Minha abordagem une **raciocínio matemático**, **engenharia de software de precisão** e visão sistêmica, voltada a eficiência, clareza de código e impacto mensurável.
+Desenvolvo aplicações em Java com foco em interfaces gráficas (GUI) e usabilidade, utilizando POO (Programação Orientada a Objetos) de forma estruturada para garantir reusabilidade, manutenção e clareza no código.
+
+Aplico os princípios da engenharia de software com foco em clareza, organização e estrutura de código. Utilizo a Programação Orientada a Objetos (POO) como base para projetar sistemas modulares, reutilizáveis e fáceis de evoluir — sempre pensando em manutenção a longo prazo e qualidade técnica.
+
+Minha atuação une:
+
+🎯 Raciocínio matemático aplicado
+
+🧠 Visão sistêmica e capacidade analítica
+
+⚙️ Aplicações reais com impacto prático e propósito técnico
+
+✍️ Código limpo, testável e alinhado com boas práticas de engenharia
 
 ---
 
