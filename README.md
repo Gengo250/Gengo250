@@ -1,18 +1,9 @@
 <h1 align="center">👋 SEJA BEM-VINDO</h1>
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjZmM2xrczlkbW9kc3hvNXFsYWYwcGs1YWdrYXd6ZnRnN21ib3VjbyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="100%" />
-    </td>
-    <td>
-      <p align="left">
-        <strong>@_Gengo_@_</strong><br>
-        Engenheiro da Computação | Robótica | Cibersegurança | JAVA | C++ | Python
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>@_Gengo_@_</strong><br>
+  Engenheiro da Computação | Robótica | Cibersegurança | JAVA | C++ | Python
+</p>
 
 ---
 
