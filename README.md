@@ -76,3 +76,7 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   
   <img src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical" width="45%" style="display:inline-block;" />
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Gengo250/gitrepo/output/snake.svg" alt="Snake animation" />
+
