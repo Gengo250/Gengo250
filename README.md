@@ -62,7 +62,7 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 
 ---
 
-### ⚙️ Habilidades por área
+### 🧠 Minhas Especialidades Técnicas
 
 - **Robótica e Sistemas Embarcados:**  
   ROS 2, C++, comunicação assíncrona, controle em tempo real, arquitetura modular.
