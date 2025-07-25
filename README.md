@@ -43,8 +43,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjZmM2xrczlkbW9kc3hvNXFsYWYwcGs1YWdrYXd6ZnRnN21ib3VjbyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" alt="robot pixel gif" width="300"/>
-    </td>
+     <img src="https://media.giphy.com/media/rzcYzbp8BZmwWTUPFa/giphy.gif" alt="robot pixel gif" width="300"/>
   </tr>
 </table>
 
