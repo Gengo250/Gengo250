@@ -39,14 +39,6 @@ Sou movido pelo desafio de transformar ideias complexas em soluções técnicas 
 
 ---
 
-### 📌 Disponível para:
-
-- Projetos em **robótica, automação e engenharia de software**
-- Contribuições técnicas em **repos open-source relevantes**
-- Oportunidades em times de **pesquisa aplicada ou produto tech**
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 ![ROS 2](https://img.shields.io/badge/ROS2-F4F4F4?style=for-the-badge&logo=ros&logoColor=black)
