@@ -47,7 +47,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td>
-   <img src="https://media.giphy.com/media/rzcYzbp8BZmwWTUPFa/giphy.gif" width="300" alt="robot pixel gif" />
+      <img src="assets/robot.gif" alt="robot pixel gif" width="300"/>
   </tr>
 </table>
 
