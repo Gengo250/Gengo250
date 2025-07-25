@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
-
+![Gengo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical)
 
 ---
 
