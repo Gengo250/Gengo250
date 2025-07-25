@@ -2,42 +2,25 @@
 # @_Gengo_@_
 
 ### 👨‍💻 Sobre mim
+Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software e lógica aplicada para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas e sistemas educacionais inteligentes.
 
-Engenheiro da Computação com formação sólida em Robótica, Sistemas Embarcados e Programação Avançada, com foco no desenvolvimento de soluções escaláveis, performáticas e voltadas à resolução de desafios técnicos reais.
+Durante 2024/2025, trabalhei com arquiteturas distribuídas em ROS 2, desenvolvi algoritmos de automação com Python para desafios computacionais, e criei interfaces gráficas em Java com foco em usabilidade e clareza de código. Acredito que a engenharia de software começa pela organização do pensamento — e termina com código limpo, testável e útil.
 
-Tenho experiência prática com ROS 2 para controle de robôs e comunicação distribuída em tempo real, utilizando C++ moderno e princípios de arquitetura limpa. Trabalho também com automação inteligente em Python, aplicando lógica algorítmica para resolver problemas computacionais e educacionais — como nos desafios colaborativos com o Museu da Matemática.
+⚙️ Habilidades por área
+Robótica e Sistemas Embarcados:
+ROS 2, C++, comunicação assíncrona, controle em tempo real, arquitetura modular.
 
-Desenvolvo aplicações em Java com foco em interfaces gráficas (GUI) e usabilidade, utilizando POO (Programação Orientada a Objetos) de forma estruturada para garantir reusabilidade, manutenção e clareza no código.
+Automação Inteligente e Lógica Computacional:
+Python, algoritmos educacionais, automação de tarefas, desafios matemáticos (Museu da Matemática).
 
-Aplico os princípios da engenharia de software com foco em clareza, organização e estrutura de código. Utilizo a Programação Orientada a Objetos (POO) como base para projetar sistemas modulares, reutilizáveis e fáceis de evoluir — sempre pensando em manutenção a longo prazo e qualidade técnica.
+Desenvolvimento de Interfaces e Aplicações:
+Java (Swing), Programação Orientada a Objetos, design de interfaces, foco em experiência do usuário.
 
-Minha atuação une:
+Engenharia de Software:
+POO, clareza estrutural, reutilização de código, testes e manutenção a longo prazo.
 
-🎯 Raciocínio matemático aplicado
-
-🧠 Visão sistêmica e capacidade analítica
-
-⚙️ Aplicações reais com impacto prático e propósito técnico
-
-✍️ Código limpo, testável e alinhado com boas práticas de engenharia
-
----
-
-### ⚙️ Áreas de Especialização
-
-- **ROS 2 & Robótica aplicada**
-- **C++ moderno** (programação de baixo nível e alto desempenho)
-- **Python para automações e lógica aplicada**
-- **Java** com foco em GUI para aplicações educacionais e simuladores
-- **Engenharia de sistemas**, com atenção a arquitetura, modularidade e testes
-
----
-
-### 🎯 Objetivo Profissional
-
-Sou movido pelo desafio de transformar ideias complexas em soluções técnicas claras, robustas e funcionais. Meu objetivo é evoluir constantemente como engenheiro, entregando resultados que agregam valor real a equipes de engenharia, produtos educacionais e sistemas robóticos. Mais do que escrever código, busco criar soluções elegantes, sustentáveis e com propósito — porque pra mim, programar é resolver o que ninguém resolveu ainda, com precisão, criatividade e um toque de teimosia técnica.
-
----
+Outras Tecnologias:
+Power BI, Git/GitHub, HTML/CSS/JS, Linux, shell scripting.
 
 ### 🛠️ Tecnologias & Ferramentas
 
