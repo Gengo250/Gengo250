@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" width="45%" />
 
 ---
 
@@ -68,7 +69,6 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical" width="45%" />
 </p>
 
