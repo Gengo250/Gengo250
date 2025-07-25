@@ -46,7 +46,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd" alt="Robot" width="200"/>
+      <img src="https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd" alt="Robot" width="300"/>
     </td>
   </tr>
 </table>
