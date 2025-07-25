@@ -1,4 +1,9 @@
-<h1 align="center">👋 SEJA BEM-VINDO</h1>
+<h1 align="center" style="font-family: 'Press Start 2P', monospace; font-size: 22px;">
+  👋 SEJA BEM-VINDO
+</h1>
+
+<!-- Carrega a fonte pixelada (Press Start 2P do Google Fonts) -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
 <p align="center">
   <strong>@_Gengo_@_</strong><br>
