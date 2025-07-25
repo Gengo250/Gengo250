@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: monospace; font-size: 24px;">
-  👋 SEJA BEM-VINDO
+  <a href="#sobre-mim" style="text-decoration: none; color: inherit;">👋 SEJA BEM-VINDO</a>
 </h1>
 
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 <span id="sobre-mim">Sobre mim</span>
 
 Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas educacionais inteligentes e ambientes seguros de testes.
 
