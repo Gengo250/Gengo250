@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS2-F4F4F4?style=for-the-badge&logo=ros&logoColor=black"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 👨‍💻 <span id="sobre-mim">Sobre mim</span>
+## 👨‍💻 <span id="sobre-mim">Sobre mim</span>
 
 Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas educacionais inteligentes e ambientes seguros de testes.
 
@@ -62,7 +62,7 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 
 ---
 
-### 🧠 Minhas Especialidades Técnicas
+## 🧠 Minhas Especialidades Técnicas
 
 - **Robótica e Sistemas Embarcados:**  
   ROS 2, C++, comunicação assíncrona, controle em tempo real, arquitetura modular.
