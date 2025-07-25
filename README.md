@@ -2,9 +2,23 @@
 
 <p align="center">
   <strong>@_Gengo_@_</strong><br>
-  Engenheiro da Computação | Robótica | Cibersegurança | Software Inteligente
+  Engenheiro da Computação | Robótica | Cibersegurança | JAVA | C++ | Python
 </p>
 
+---
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS2-F4F4F4?style=for-the-badge&logo=ros&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=cyberdefense&logoColor=white"/>
+</p>
 ---
 
 ### 👨‍💻 Sobre mim
@@ -37,24 +51,6 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
 
 ---
-
-### 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS2-F4F4F4?style=for-the-badge&logo=ros&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=cyberdefense&logoColor=white"/>
-</p>
-
----
-
-### 📊 Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" width="45%" />
