@@ -25,15 +25,7 @@
 
 ### 🌐 Redes Sociais
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/exemplo" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-![Gengo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical)
+<p align="center"> <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/exemplo"> <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p>
 
 ---
 
