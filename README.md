@@ -38,8 +38,6 @@ Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=cyberdefense&logoColor=white)
 ---
 
-### 📊 Estatísticas GitHub
-
 ![Gengo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gengo250&theme=radical)
