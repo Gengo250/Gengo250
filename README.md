@@ -40,18 +40,22 @@
 </p>
 
 ---
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-   
-    <td>
-  
-  </tr>
-</table>
- ![robot](https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd)
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd" alt="robot" width="200"/>
+
+</div>
+
 ---
 
 ### 👨‍💻 <span id="sobre-mim">Sobre mim</span>
