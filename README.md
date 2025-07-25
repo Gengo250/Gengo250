@@ -47,7 +47,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td>
-      ![Image](https://github.com/user-attachments/assets/50e26a6f-3ae6-4a08-913c-499e4963ffb5)
+    <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" width="300" alt="Robô animado">
   </tr>
 </table>
 
