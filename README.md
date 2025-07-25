@@ -6,6 +6,7 @@
 </p>
 
 ---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
@@ -19,6 +20,7 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=cyberdefense&logoColor=white"/>
 </p>
+
 ---
 
 ### 👨‍💻 Sobre mim
