@@ -1,8 +1,4 @@
-<style>
-  html {
-    scroll-behavior: smooth;
-  }
-</style>
+
 <h1 align="center" style="font-family: monospace; font-size: 24px;">
   <a href="#sobre-mim" style="text-decoration: none; color: inherit;">👋 SEJA BEM-VINDO</a>
 </h1>
@@ -51,7 +47,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td>
-     <img src="https://media.giphy.com/media/rzcYzbp8BZmwWTUPFa/giphy.gif" alt="robot pixel gif" width="300"/>
+   <img src="https://media.giphy.com/media/rzcYzbp8BZmwWTUPFa/giphy.gif" width="300" alt="robot pixel gif" />
   </tr>
 </table>
 
