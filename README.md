@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Press Start 2P', monospace; font-size: 22px;">
-  👋 SEJA BEM-VINDO
+   SEJA BEM-VINDO
 </h1>
 
 <!-- Carrega a fonte pixelada (Press Start 2P do Google Fonts) -->
