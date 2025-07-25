@@ -46,12 +46,12 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
-    ![robot](https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd)
+   
     <td>
   
   </tr>
 </table>
-
+ ![robot](https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd)
 ---
 
 ### 👨‍💻 <span id="sobre-mim">Sobre mim</span>
