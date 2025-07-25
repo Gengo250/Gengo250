@@ -71,11 +71,8 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical" width="45%" style="display:inline-block; margin-right: 20px;" />
+  
+  <img src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical" width="45%" style="display:inline-block;" />
 </p>
