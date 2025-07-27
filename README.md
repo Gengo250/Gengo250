@@ -5,8 +5,12 @@
 
 
 <p align="center">
-  <strong>@_Gengo_@_</strong><br>
-  Engenheiro da Computação | Robótica | Cibersegurança | JAVA | C++ | Python
+  
+ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas educacionais inteligentes e ambientes seguros de testes.
+
+Durante 2024/2025, trabalhei com arquiteturas distribuídas em **ROS 2**, desenvolvi algoritmos de automação com **Python** para desafios computacionais, criei interfaces gráficas em **Java** com foco em usabilidade e clareza de código, e aprofundei meus estudos em **cibersegurança**, realizando simulações em ambientes isolados com máquinas virtuais no **VirtualBox** e no **Kali Linux**.  
+Acredito que a engenharia de software começa pela organização do pensamento — e termina com código limpo, testável, seguro e útil.
+
 </p>
 
 ---
