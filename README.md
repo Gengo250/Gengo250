@@ -13,7 +13,6 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 
 </p>
 
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -76,7 +75,8 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 
 - **Outras Tecnologias:**  
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
-
+  
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical" width="45%" style="display:inline-block; margin-right: 20px;" />
