@@ -1,6 +1,6 @@
 
 <h1 align="center" style="font-family: monospace; font-size: 24px;">
-  <a href="#sobre-mim" style="text-decoration: none; color: inherit;">👋 SEJA BEM-VINDO</a>
+   <\a👋 SEJA BEM-VINDO</a>
 </h1>
 
 <p align="center">
