@@ -1,6 +1,6 @@
 
 <h1 align="center" style="font-family: monospace; font-size: 24px;">
-   <\a👋 SEJA BEM-VINDO</a>
+   👋 SEJA BEM-VINDO</a>
 </h1>
 
 <p align="center">
