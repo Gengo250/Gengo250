@@ -6,7 +6,7 @@
 
 <p align="center">
   
- Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas educacionais inteligentes e ambientes seguros de testes.
+Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas educacionais inteligentes e ambientes seguros de testes.
 
 Durante 2024/2025, trabalhei com arquiteturas distribuídas em **ROS 2**, desenvolvi algoritmos de automação com **Python** para desafios computacionais, criei interfaces gráficas em **Java** com foco em usabilidade e clareza de código, e aprofundei meus estudos em **cibersegurança**, realizando simulações em ambientes isolados com máquinas virtuais no **VirtualBox** e no **Kali Linux**.  
 Acredito que a engenharia de software começa pela organização do pensamento — e termina com código limpo, testável, seguro e útil.
@@ -55,16 +55,7 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   </tr>
 </table>
 
----
 
-## 👨‍💻 <span id="sobre-mim">Sobre mim</span>
-
-Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas educacionais inteligentes e ambientes seguros de testes.
-
-Durante 2024/2025, trabalhei com arquiteturas distribuídas em **ROS 2**, desenvolvi algoritmos de automação com **Python** para desafios computacionais, criei interfaces gráficas em **Java** com foco em usabilidade e clareza de código, e aprofundei meus estudos em **cibersegurança**, realizando simulações em ambientes isolados com máquinas virtuais no **VirtualBox** e no **Kali Linux**.  
-Acredito que a engenharia de software começa pela organização do pensamento — e termina com código limpo, testável, seguro e útil.
-
----
 
 ## 🧠 Minhas Especialidades Técnicas
 
@@ -86,7 +77,7 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 - **Outras Tecnologias:**  
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
 
----
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical" width="45%" style="display:inline-block; margin-right: 20px;" />
   
