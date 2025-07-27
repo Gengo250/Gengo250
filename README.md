@@ -37,6 +37,8 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   <img src="https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=cyberdefense&logoColor=white"/>
 </p>
 
+--- 
+
 
 <table align="center">
   <tr>
