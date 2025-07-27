@@ -23,6 +23,9 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 </p>
 
 
+---
+
+
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
