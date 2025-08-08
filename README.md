@@ -21,6 +21,9 @@
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Engenheiro+da+Computação;Robótica+%7C+Cibersegurança+%7C+IA+e+Automações" alt="Typing SVG" />
+</p>
 
 <p align="center">
   
