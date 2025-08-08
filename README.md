@@ -85,7 +85,7 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" />
 
 <!-- GitHub Streak -->
-<img width="97%" src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true" />
+<!-- <img width="97%" src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true" /> -->
 
 
 </div>
