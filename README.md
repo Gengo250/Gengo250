@@ -42,19 +42,18 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 
 --- 
 
-
 <table align="center" style="width: 100%;">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" width="340"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="350"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd" alt="Robot" width="500"/>
+    <td colspan="2" align="center" style="padding-top: 20px;">
+      <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" alt="Robot" width="300"/>
     </td>
   </tr>
 </table>
