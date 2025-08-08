@@ -43,19 +43,20 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 --- 
 
 
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" width="320"/>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd" alt="Robot" width="300"/>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fd3f0e19-4153-4e57-a7e2-5a797be57dcd" alt="Robot" width="250"/>
     </td>
-     <td>  <!-- Linguagens mais usadas -->
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" />   
-     </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" width="280"/>
+    </td>
   </tr>
 </table>
+
 
 
 
