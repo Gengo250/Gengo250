@@ -19,12 +19,6 @@
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Engenheiro+da+Computação;Robótica+%7C+Cibersegurança+%7C+IA+e+Automações" alt="Typing SVG" />
-</p>
-
 <p align="center">
   
 Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas automatizados inteligentes e ambientes seguros de testes.
