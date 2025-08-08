@@ -51,27 +51,6 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 
 --- 
 
-<table align="center" style="width: 100%;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="350"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Aqui está o GIF separado para evitar estilo herdado da tabela -->
-<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" alt="Robot" width="300" style="background: none; box-shadow: none;"/>
-</p>
-
-
-
-
-
-
 ## 🧠 Minhas Especialidades Técnicas
 
 - **Robótica e Sistemas Embarcados:**  
@@ -94,6 +73,21 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   
 ---
 
+<table align="center" style="width: 100%;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="350"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Aqui está o GIF separado para evitar estilo herdado da tabela -->
+<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" alt="Robot" width="300" style="background: none; box-shadow: none;"/>
+</p>
 
 
 <!-- GitHub Streak -->
