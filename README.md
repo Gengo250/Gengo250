@@ -51,12 +51,13 @@ Acredito que a engenharia de software começa pela organização do pensamento �
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="350"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding-top: 20px;">
-      <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" alt="Robot" width="300"/>
-    </td>
-  </tr>
 </table>
+
+<!-- Aqui está o GIF separado para evitar estilo herdado da tabela -->
+<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" alt="Robot" width="300" style="background: none; box-shadow: none;"/>
+</p>
+
 
 
 
