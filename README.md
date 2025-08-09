@@ -9,25 +9,30 @@
 
 
 
-
+<!-- Social icons - cores oficiais, tiles arredondados -->
 <p align="center" style="font-size:0; line-height:0;">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn"
-         height="28" style="background:#0A66C2;border-radius:50%;padding:10px;box-shadow:none;" />
+    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" alt="LinkedIn"
+         height="26" style="background:#0A66C2; border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
   </a><!--
-  --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Gmail"
-         height="28" style="background:#EA4335;border-radius:50%;padding:10px;box-shadow:none;" />
+  --><!-- Email -->
+  <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
+    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email"
+         height="26" style="background:#EA4335; border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
   </a><!--
-  --><a href="https://instagram.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram"
-         height="28" style="background:#E4405F;border-radius:50%;padding:10px;box-shadow:none;" />
+  --><!-- Instagram (gradiente oficial) -->
+  <a href="https://instagram.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
+    <img src="https://cdn.simpleicons.org/instagram/FFFFFF" alt="Instagram"
+         height="26" style="background: radial-gradient(circle at 30% 30%, #F58529 0%, #FEDA77 25%, #DD2A7B 50%, #8134AF 75%, #515BD4 100%); border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
   </a><!--
-  --><a href="https://twitter.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/x/ffffff" alt="Twitter/X"
-         height="28" style="background:#000000;border-radius:50%;padding:10px;box-shadow:none;" />
+  --><!-- X / Twitter -->
+  <a href="https://twitter.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)"
+         height="26" style="background:#000000; border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
   </a>
 </p>
+
 
 
 
