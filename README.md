@@ -93,11 +93,19 @@ Acredito que a engenharia de software começa pela organização do pensamento �
     </td>
   </tr>
 </table>
-
-<!-- Aqui está o GIF separado para evitar estilo herdado da tabela -->
-<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" alt="Robot" width="300" style="background: none; box-shadow: none;"/>
-</p>
+<!-- GIFs lado a lado (substitui o <p> anterior) -->
+<table align="center" style="width: 100%; border: 0; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgurK0DVZkdihCB2PprxSNJ741GCke6ulREeBBQqvht7lPr5PcHTEUfIROvg4SkxdYmx0AKOq4GTgEFGJsmfKAy4lhAB6jO6uoNQGIWhoa1OzLYeJFBBW8hRScKm8Pl9Lnz_bO0dtxRb60/s1600/20.gif"
+           alt="Sprite GIF" width="300" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
+           alt="Robot" width="300" />
+    </td>
+  </tr>
+</table>
 
 
 <!-- GitHub Streak -->
