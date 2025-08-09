@@ -13,12 +13,13 @@
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="180" />
   
-<div style="display: flex; align-items: center; gap: 24px;">
+<div align="left">
   <img src="assets/icons/instagram.svg" height="50" alt="instagram logo" />
+  <img width="24" />
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50" alt="gmail logo" />
+  <img width="24" />
   <img src="assets/icons/linkedin.svg" height="50" alt="linkedin logo" />
 </div>
-
 
 
 
