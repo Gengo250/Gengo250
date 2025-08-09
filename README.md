@@ -83,33 +83,35 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   
 ---
 
-<table align="center" style="width: 100%;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="350"/>
-    </td>
-  </tr>
-</table>
-<!-- GIFs lado a lado (substitui o <p> anterior) -->
-<table align="center" style="width: 100%; border: 0; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgurK0DVZkdihCB2PprxSNJ741GCke6ulREeBBQqvht7lPr5PcHTEUfIROvg4SkxdYmx0AKOq4GTgEFGJsmfKAy4lhAB6jO6uoNQGIWhoa1OzLYeJFBBW8hRScKm8Pl9Lnz_bO0dtxRb60/s1600/20.gif"
-           alt="Sprite GIF" width="300" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-           alt="Robot" width="300" />
-    </td>
-  </tr>
-</table>
+<!-- Stats + Top Langs (sem tabela, sem bordas) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats" width="430" />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true"
+    alt="Top Langs" width="370" />
+</p>
 
+<!-- GIFs lado a lado (sem tabela, sem bordas) -->
+<p align="center">
+  <img
+    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgurK0DVZkdihCB2PprxSNJ741GCke6ulREeBBQqvht7lPr5PcHTEUfIROvg4SkxdYmx0AKOq4GTgEFGJsmfKAy4lhAB6jO6uoNQGIWhoa1OzLYeJFBBW8hRScKm8Pl9Lnz_bO0dtxRb60/s1600/20.gif"
+    alt="Sprite GIF" width="380" />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
+    alt="Robot" width="380" />
+</p>
 
 <!-- GitHub Streak -->
- <img width="97%" src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true" /> 
+<p align="center">
+  <img width="97%"
+       src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true"
+       alt="GitHub Streak" />
+</p>
+
 
 
 
