@@ -10,20 +10,20 @@
 
 <p align="center" style="font-size:0;">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" height="36" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="display:inline-block; margin:0 12px;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" height="36" alt="LinkedIn"/>
   </a><!--
   --><!-- Gmail -->
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/gmail.svg" height="36" alt="Gmail"/>
+  <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="display:inline-block; margin:0 12px;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/gmail.svg" height="36" alt="Gmail"/>
   </a><!--
   --><!-- Instagram -->
-  <a href="https://instagram.com/_geng0_" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" height="36" alt="Instagram"/>
+  <a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 12px;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" height="36" alt="Instagram"/>
   </a><!--
-  --><!-- Twitter -->
-  <a href="https://twitter.com/_geng0_" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter.svg" height="36" alt="Twitter"/>
+  --><!-- Twitter / X -->
+  <a href="https://twitter.com/_geng0_" target="_blank" style="display:inline-block; margin:0 12px;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/twitter.svg" height="36" alt="Twitter/X"/>
   </a>
 </p>
 
