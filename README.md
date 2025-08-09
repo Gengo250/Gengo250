@@ -8,6 +8,25 @@
 </h1>
 
 
+<!-- Social: DenverCoder1/custom-icon-badges - roxo #A855F7 -->
+<p align="center" style="font-size:0;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="margin:0 6px;">
+    <img src="https://custom-icon-badges.demolab.com/badge/- -A855F7.svg?logo=linkedin&logoColor=white&labelColor=A855F7&style=for-the-badge" height="32" alt="LinkedIn"/>
+  </a><!--
+  --><!-- Email -->
+  <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="margin:0 6px;">
+    <img src="https://custom-icon-badges.demolab.com/badge/- -A855F7.svg?logo=gmail&logoColor=white&labelColor=A855F7&style=for-the-badge" height="32" alt="Gmail"/>
+  </a><!--
+  --><!-- Instagram -->
+  <a href="https://instagram.com/_geng0_" target="_blank" style="margin:0 6px;">
+    <img src="https://custom-icon-badges.demolab.com/badge/- -A855F7.svg?logo=instagram&logoColor=white&labelColor=A855F7&style=for-the-badge" height="32" alt="Instagram"/>
+  </a><!--
+  --><!-- X / Twitter -->
+  <a href="https://twitter.com/_geng0_" target="_blank" style="margin:0 6px;">
+    <img src="https://custom-icon-badges.demolab.com/badge/- -A855F7.svg?logo=x&logoColor=white&labelColor=A855F7&style=for-the-badge" height="32" alt="X (Twitter)"/>
+  </a>
+</p>
 
 
 <p align="center">
