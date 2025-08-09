@@ -13,23 +13,28 @@
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="190" />
 
-  <!-- seus ícones (inalterados) -->
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+ <p align="center" style="margin: 0;">
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank"
+     style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
+    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" style="display:block;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
+  <a href="mailto:miguelgengo28@gmail.com" target="_blank"
+     style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail" style="display:block;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_geng0_" target="_blank">
-    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
+  <a href="https://instagram.com/_geng0_" target="_blank"
+     style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
+    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram" style="display:block;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/_geng0_" target="_blank">
-    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
+  <a href="https://twitter.com/_geng0_" target="_blank"
+     style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
+    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X" style="display:block;"/>
   </a>
 </p>
+
 <br clear="both" />
 
 
