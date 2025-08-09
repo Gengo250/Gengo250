@@ -11,7 +11,7 @@
 <p align="center">
   <!-- GIF flutuando à direita -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-       alt="Dev desk animation" align="right" width="110" />
+       alt="Dev desk animation" align="right" width="190" />
 
   <!-- seus ícones (inalterados) -->
   <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
