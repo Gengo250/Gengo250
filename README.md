@@ -9,21 +9,21 @@
   </a>
 </h1>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
+<p align="center" style="font-size:0; line-height:0;">
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
+  </a><!--
+  --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
     <img src="https://img.shields.io/badge/MIGUELGENGO28@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/_geng0_" target="_blank">
+  </a><!--
+  --><a href="https://instagram.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/_geng0_" target="_blank">
+  </a><!--
+  --><a href="https://twitter.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+
 
 
 <p align="center">
