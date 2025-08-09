@@ -7,38 +7,6 @@
   </a>
 </h1>
 
-<!-- Ícones sociais (apenas ícone, sem texto) usando DenverCoder1/custom-icon-badges -->
-<p align="center" style="font-size:0; line-height:0;">
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img alt="LinkedIn" height="34"
-         src="https://custom-icon-badges.demolab.com/badge/-/0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=" />
-  </a><!--
-  --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img alt="Gmail" height="34"
-         src="https://custom-icon-badges.demolab.com/badge/-/EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=" />
-  </a><!--
-  --><a href="https://instagram.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img alt="Instagram" height="34"
-         src="https://custom-icon-badges.demolab.com/badge/-/E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=" />
-  </a><!--
-  --><a href="https://twitter.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img alt="X" height="34"
-         src="https://custom-icon-badges.demolab.com/badge/-/000000?style=for-the-badge&logo=x&logoColor=white&label=" />
-  </a><!--
-  --><a href="https://www.youtube.com/@teucanal" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img alt="YouTube" height="34"
-         src="https://custom-icon-badges.demolab.com/badge/-/FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=" />
-  </a><!--
-  --><a href="https://discord.gg/teuservidor" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img alt="Discord" height="34"
-         src="https://custom-icon-badges.demolab.com/badge/-/5865F2?style=for-the-badge&logo=discord&logoColor=white&label=" />
-  </a><!--
-  --><a href="https://dev.to/seuuser" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img alt="DEV" height="34"
-         src="https://custom-icon-badges.demolab.com/badge/-/0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&label=" />
-  </a>
-</p>
-
 
 
 
