@@ -9,16 +9,16 @@
 
 <p align="center" style="font-size:0;">
   <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
   </a><!--
   --><a href="mailto:miguelgengo28@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
   </a><!--
   --><a href="https://instagram.com/_geng0_" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram"/>
   </a><!--
   --><a href="https://twitter.com/_geng0_" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" height="32" alt="X"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="36" alt="Twitter/X"/>
   </a>
 </p>
 
