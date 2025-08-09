@@ -98,15 +98,16 @@ Acredito que a engenharia de software começa pela organização do pensamento e
     alt="GitHub Streak" width="820" />
 </div>
 
-<!-- GIFs empilhados (um abaixo do outro, largos) -->
+<!-- GIFs empilhados (levemente menores) -->
 <div align="center">
   <img
     src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgurK0DVZkdihCB2PprxSNJ741GCke6ulREeBBQqvht7lPr5PcHTEUfIROvg4SkxdYmx0AKOq4GTgEFGJsmfKAy4lhAB6jO6uoNQGIWhoa1OzLYeJFBBW8hRScKm8Pl9Lnz_bO0dtxRb60/s1600/20.gif"
-    alt="Sprite GIF" width="820" style="max-width: 100%; display: block; margin: 0 auto 16px;" />
+    alt="Sprite GIF" width="760" style="max-width: 100%; display: block; margin: 0 auto 14px;" />
   <img
     src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-    alt="Robot" width="820" style="max-width: 100%; display: block; margin: 0 auto;" />
+    alt="Robot" width="760" style="max-width: 100%; display: block; margin: 0 auto;" />
 </div>
+
 
 
 
