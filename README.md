@@ -38,7 +38,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 
 Durante **2024/2025**, trabalhei com arquiteturas distribuídas em **ROS 2**, desenvolvi algoritmos de automação com **Python** para desafios computacionais, criei interfaces gráficas em **Java** com foco em usabilidade e clareza de código, e aprofundei meus estudos em cibersegurança, realizando simulações em ambientes isolados com máquinas virtuais no **VirtualBox** e no **Kali Linux**.
 Em paralelo, lecionei no **Museu da Matemática — Prandiano**, conduzindo oficinas e mentorias que me fizeram dominar a resolução de problemas matemáticos demandados pelo mercado — modelagem, otimização, análise estatística e raciocínio combinatório — e traduzi-los em algoritmos eficientes e soluções aplicáveis ao negócio.
-Acredito que a engenharia de software começa pela organização do pensamento — e termina com código limpo, testável, seguro e útil.
+Acredito que a engenharia de software começa pela organização do pensamento e termina com código limpo, testável, seguro e útil.
 </p>
 
 
