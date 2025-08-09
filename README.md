@@ -7,30 +7,36 @@
   </a>
 </h1>
 
-<!-- Social + GIF alinhados na mesma linha -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_geng0_" target="_blank">
-    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/_geng0_" target="_blank">
-    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
-  </a>
-  <!-- GIF pequeno à direita -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Badges (esquerda) + GIF (canto direito) -->
+<div style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:16px;">
+
+  <!-- Badges / botões de mídias -->
+  <div style="display:flex; flex-wrap:wrap; gap:10px;">
+    <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1">
+      <img alt="LinkedIn"
+           src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:miguelgengo28@gmail.com">
+      <img alt="Gmail"
+           src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://instagram.com/_geng0_">
+      <img alt="Instagram"
+           src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://twitter.com/_geng0_">
+      <img alt="Twitter/X"
+           src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
+    </a>
+  </div>
+
+  <!-- GIF no canto direito -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-       alt="Dev desk animation"
-       width="120"
-       style="vertical-align: middle; border-radius: 8px;" />
-</p>
+       alt="GIF"
+       width="180"
+       style="display:block; border-radius:12px; margin-left:auto;">
+</div>
+
 
 
 
