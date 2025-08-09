@@ -25,6 +25,15 @@
   </a>
 </p>
 
+<!-- GIF no topo à direita -->
+<div align="right">
+  <img
+    src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
+    alt="Dev desk animation"
+    width="360"
+    style="max-width: 40%; min-width: 260px; display: block; margin-top: 6px;" />
+</div>
+
 
 
 
