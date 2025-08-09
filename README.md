@@ -7,18 +7,21 @@
   </a>
 </h1>
 
+
 <div align="left">
   <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="180" />
 
-
 <div align="left">
-  <!-- mantive a estrutura com <img>, só troquei os src dos que você já tinha -->
-  <img src="assets/icons/instagram.svg" height="60" alt="instagram logo"  />
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="gmail logo"  />
-  <img src="assets/icons/linkedin.svg" height="60" alt="linkedin logo"  />
+  <!-- mantive a estrutura com <img>, só aumentei tamanho e espaçamento -->
+  <img src="assets/icons/instagram.svg" height="64" alt="instagram logo" />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="64" alt="gmail logo" />
+  <img width="24" />
+  <img src="assets/icons/linkedin.svg" height="64" alt="linkedin logo" />
 </div>
+
 
 
 
