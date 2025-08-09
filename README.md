@@ -21,11 +21,12 @@
   <a href="https://instagram.com/_geng0_" target="_blank" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" height="36" alt="Instagram"/>
   </a><!--
-  --><!-- X / Twitter -->
+  --><!-- Twitter -->
   <a href="https://twitter.com/_geng0_" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/x.svg" height="36" alt="X (Twitter)"/>
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter.svg" height="36" alt="Twitter"/>
   </a>
 </p>
+
 
 
 
