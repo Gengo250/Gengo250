@@ -7,24 +7,24 @@
   </a>
 </h1>
 
-<div align="center" style="display:flex; justify-content:center; gap:50px;">
-  <!-- LinkedIn -->
+<p align="center">
   <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
     <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
   </a>
-  <!-- Gmail -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaçamento -->
   <a href="mailto:miguelgengo28@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
   </a>
-  <!-- Instagram -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaçamento -->
   <a href="https://instagram.com/_geng0_" target="_blank">
     <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
   </a>
-  <!-- Twitter/X -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaçamento -->
   <a href="https://twitter.com/_geng0_" target="_blank">
     <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
   </a>
-</div>
+</p>
+
 
 
 
