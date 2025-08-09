@@ -7,34 +7,30 @@
   </a>
 </h1>
 
-<!-- Ícones (esquerda) + GIF (direita) sem sublinhado -->
-<div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
-  <!-- seus ícones, sem &nbsp; e sem underline -->
-  <div style="display:inline-flex; align-items:center; gap:22px;">
-    <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank"
-       style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
-      <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" style="display:block;"/>
-    </a>
-    <a href="mailto:miguelgengo28@gmail.com" target="_blank"
-       style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail" style="display:block;"/>
-    </a>
-    <a href="https://instagram.com/_geng0_" target="_blank"
-       style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
-      <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram" style="display:block;"/>
-    </a>
-    <a href="https://twitter.com/_geng0_" target="_blank"
-       style="text-decoration:none; border-bottom:0; line-height:0; display:inline-block;">
-      <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X" style="display:block;"/>
-    </a>
-  </div>
-
-  <!-- GIF à extrema direita, levemente maior que os ícones -->
+<!-- Ícones centralizados + GIF à extrema direita (alinhado) -->
+<p align="center">
+  <!-- GIF maior à direita -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-       alt="Dev desk animation"
-       width="128"
-       style="display:block; border-radius:12px; margin-left:auto;" />
-</div>
+       alt="Dev desk animation" align="right" width="110" />
+
+  <!-- seus ícones (inalterados) -->
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
+    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_geng0_" target="_blank">
+    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/_geng0_" target="_blank">
+    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
+  </a>
+</p>
+<br clear="both" />
 
 
 
