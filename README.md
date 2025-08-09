@@ -17,7 +17,7 @@
   <!-- mantive a estrutura com <img>, só aumentei tamanho e espaçamento -->
   <img src="assets/icons/instagram.svg" height="64" alt="instagram logo" />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="64" alt="gmail logo" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="52" alt="gmail logo" />
   <img width="24" />
   <img src="assets/icons/linkedin.svg" height="64" alt="linkedin logo" />
 </div>
