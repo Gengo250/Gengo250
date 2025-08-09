@@ -7,32 +7,20 @@
   </a>
 </h1>
 
-
-
-<!-- Social icons - cores oficiais, tiles arredondados -->
-<p align="center" style="font-size:0; line-height:0;">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" alt="LinkedIn"
-         height="26" style="background:#0A66C2; border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
+<p align="center" style="font-size:0;">
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
   </a><!--
-  --><!-- Email -->
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email"
-         height="26" style="background:#EA4335; border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
+  --><a href="mailto:miguelgengo28@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
   </a><!--
-  --><!-- Instagram (gradiente oficial) -->
-  <a href="https://instagram.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/instagram/FFFFFF" alt="Instagram"
-         height="26" style="background: radial-gradient(circle at 30% 30%, #F58529 0%, #FEDA77 25%, #DD2A7B 50%, #8134AF 75%, #515BD4 100%); border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
+  --><a href="https://instagram.com/_geng0_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram"/>
   </a><!--
-  --><!-- X / Twitter -->
-  <a href="https://twitter.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)"
-         height="26" style="background:#000000; border-radius:10px; padding:10px; box-shadow:none; vertical-align:middle;" />
+  --><a href="https://twitter.com/_geng0_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="36" alt="Twitter/X"/>
   </a>
 </p>
-
 
 
 
