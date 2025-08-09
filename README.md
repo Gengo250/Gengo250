@@ -7,30 +7,35 @@
   </a>
 </h1>
 
-<!-- Social + GIF alinhados na mesma linha -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_geng0_" target="_blank">
-    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/_geng0_" target="_blank">
-    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
-  </a>
-  <!-- GIF pequeno à direita -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-       alt="Dev desk animation"
-       width="120"
-       style="vertical-align: middle; border-radius: 8px;" />
-</p>
+<!-- Social (central) + GIF no canto direito -->
+<div style="display:flex; align-items:center; width:100%;">
+  <!-- Ícones centralizados -->
+  <div style="flex:1; text-align:center;">
+    <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
+      <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:miguelgengo28@gmail.com" target="_blank">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/_geng0_" target="_blank">
+      <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/_geng0_" target="_blank">
+      <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
+    </a>
+  </div>
+
+  <!-- GIF colado à direita -->
+  <div style="flex:0 0 auto;">
+    <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
+         alt="Dev desk animation"
+         width="160" style="display:block; border-radius:8px;" />
+  </div>
+</div>
+
 
 
 <p align="center" style="max-width: 800px; margin: auto;">
