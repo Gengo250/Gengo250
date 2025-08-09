@@ -32,7 +32,7 @@
 
 
 
-<p align="center">
+<p align="center" style="max-width: 800px; margin: auto;">
   
 Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas automatizados inteligentes e ambientes seguros de testes.
 
