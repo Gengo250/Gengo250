@@ -11,19 +11,24 @@
 
 
 <p align="center" style="font-size:0; line-height:0;">
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn"
+         height="28" style="background:#0A66C2;border-radius:50%;padding:10px;box-shadow:none;" />
   </a><!--
-  --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
-    <img src="https://img.shields.io/badge/MIGUELGENGO28@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Gmail"
+         height="28" style="background:#EA4335;border-radius:50%;padding:10px;box-shadow:none;" />
   </a><!--
-  --><a href="https://instagram.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  --><a href="https://instagram.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram"
+         height="28" style="background:#E4405F;border-radius:50%;padding:10px;box-shadow:none;" />
   </a><!--
-  --><a href="https://twitter.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 4px;">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  --><a href="https://twitter.com/_geng0_" target="_blank" style="text-decoration:none; display:inline-block; margin:0 6px;">
+    <img src="https://cdn.simpleicons.org/x/ffffff" alt="Twitter/X"
+         height="28" style="background:#000000;border-radius:50%;padding:10px;box-shadow:none;" />
   </a>
 </p>
+
 
 
 
