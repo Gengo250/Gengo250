@@ -83,20 +83,20 @@ Acredito que a engenharia de software começa pela organização do pensamento �
   
 ---
 
-<!-- Stats + Streak + Top Langs (um bloco só, sem bordas) -->
-<p align="center">
+<!-- Stats + Top Langs + Streak (centralizados, sem tabela) -->
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats" width="340" />
-  &nbsp;
-  <img
-    src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true"
-    alt="GitHub Streak" width="330" />
-  &nbsp;
+    alt="GitHub Stats" width="430" />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true"
-    alt="Top Langs" width="300" />
-</p>
+    alt="Top Langs" width="370" />
+  <br/><br/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true"
+    alt="GitHub Streak" width="820" />
+</div>
 
 <!-- GIFs lado a lado (sem tabela, sem bordas) -->
 <p align="center">
