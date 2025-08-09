@@ -10,10 +10,9 @@
 <p align="center" style="font-size:0;">
   <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="display:inline-block; margin:0 14px;">
     <img src="assets/icons/linkedin.svg" height="36" alt="LinkedIn"/>
-  </a><!--
---><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="display:inline-block; margin:0 14px;">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/gmail.svg" height="36" alt="Gmail"/>
-</a>
+  </a>
+ <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="margin:0 14px; display:inline-block;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="36" alt="Gmail"/>
   </a><!--
   --><a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
     <img src="assets/icons/instagram.svg" height="36" alt="Instagram"/>
