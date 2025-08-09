@@ -15,7 +15,7 @@
   </a><!--
   --><!-- Gmail -->
   <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/CLorant/readme-social-icons@main/medium/colored/gmail.svg" height="36" alt="Gmail"/>
+  <img src="https://cdn.jsdelivr.net/gh/CLorant/readme-social-icons@main/medium/colored/email.svg" height="36" alt="Gmail"/>
   </a><!--
   --><!-- Instagram -->
   <a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
