@@ -7,30 +7,31 @@
   </a>
 </h1>
 
-<!-- Ícones (à esquerda) + GIF (canto direito) -->
-<div style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:18px; flex-wrap:wrap;">
-  <!-- seus ícones intactos -->
-  <div style="display:flex; align-items:center; gap:22px;">
-    <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-      <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:miguelgengo28@gmail.com" target="_blank">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
-    </a>
-    <a href="https://instagram.com/_geng0_" target="_blank">
-      <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
-    </a>
-    <a href="https://twitter.com/_geng0_" target="_blank">
-      <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
-    </a>
-  </div>
-
-  <!-- GIF colado à direita -->
+<!-- Ícones centralizados + GIF à extrema direita (alinhado) -->
+<p align="center">
+  <!-- GIF flutuando à direita -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-       alt="Dev desk animation"
-       width="180"
-       style="display:block; border-radius:12px; margin-left:auto;" />
-</div>
+       alt="Dev desk animation" align="right" width="64" />
+
+  <!-- seus ícones (inalterados) -->
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
+    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_geng0_" target="_blank">
+    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/_geng0_" target="_blank">
+    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
+  </a>
+</p>
+<br clear="both" />
+
 
 
 
