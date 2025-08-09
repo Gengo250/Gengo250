@@ -12,7 +12,7 @@
     <img src="assets/icons/linkedin.svg" height="36" alt="LinkedIn"/>
   </a><!--
   --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="assets/icons/email.svg" height="36" alt="Gmail"/>
+    <img src="assets/icons/Gmail.svg" height="36" alt="Gmail"/>
   </a><!--
   --><a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
     <img src="assets/icons/instagram.svg" height="36" alt="Instagram"/>
