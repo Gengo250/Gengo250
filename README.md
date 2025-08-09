@@ -12,25 +12,24 @@
   <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="180" />
-
-<div align="left">
-  <!-- Instagram -->
-  <a href="https://instagram.com/_geng0_" target="_blank" rel="noopener noreferrer" title="Instagram">
-    <img src="assets/icons/instagram.svg" height="64" alt="instagram logo" />
+  
+  <!-- seus ícones (inalterados) -->
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
+    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
   </a>
-  <img width="24" />
-
-  <!-- Gmail (menor) -->
-  <a href="mailto:miguelgengo28@gmail.com" title="Enviar email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" alt="gmail logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
   </a>
-  <img width="24" />
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="assets/icons/linkedin.svg" height="64" alt="linkedin logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_geng0_" target="_blank">
+    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
   </a>
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/_geng0_" target="_blank">
+    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
+  </a>
+</p>
 
 
 
