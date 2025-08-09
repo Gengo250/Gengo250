@@ -1,17 +1,42 @@
-
-<h1 align="center" style="font-family: monospace; font-size: 24px;">
-  <a href="#sobre-mim" style="text-decoration: none; color: inherit;">👋 SEJA BEM-VINDO</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=80&duration=3500&color=A855F7&lines=Ol%C3%A1%2C+eu+sou+Miguel+Gengo;Engenheiro+da+Computa%C3%A7%C3%A3o;Backend+Developer;Rob%C3%B3tica+%E2%80%A2+ROS+2+%E2%80%A2+C%2B%2B;Java+%E2%80%A2+Python+(automa%C3%A7%C3%B5es);Clean+Code+%26+Alta+Performance"
+      alt="Typing SVG"
+    />
+  </a>
 </h1>
+
+<p align="center" style="font-size:0;">
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="display:inline-block; margin:0 14px;">
+    <img src="assets/icons/linkedin.svg" height="36" alt="LinkedIn"/>
+  </a><!--
+  --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="display:inline-block; margin:0 14px;">
+    <img src="assets/icons/email.svg" height="36" alt="Gmail"/>
+  </a><!--
+  --><a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
+    <img src="assets/icons/instagram.svg" height="36" alt="Instagram"/>
+  </a><!--
+  --><a href="https://twitter.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
+    <img src="assets/icons/twitter.svg" height="36" alt="Twitter/X"/>
+  </a>
+</p>
 
 
 <p align="center">
-  <strong>@_Gengo_@_</strong><br>
-  Engenheiro da Computação | Robótica | Cibersegurança | JAVA | C++ | Python
+  
+Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas automatizados inteligentes e ambientes seguros de testes.
+
+Durante 2024/2025, trabalhei com arquiteturas distribuídas em **ROS 2**, desenvolvi algoritmos de automação com **Python** para desafios computacionais, criei interfaces gráficas em **Java** com foco em usabilidade e clareza de código, e aprofundei meus estudos em **cibersegurança**, realizando simulações em ambientes isolados com máquinas virtuais no **VirtualBox** e no **Kali Linux**.  
+Acredito que a engenharia de software começa pela organização do pensamento — e termina com código limpo, testável, seguro e útil.
+
 </p>
+
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS2-F4F4F4?style=for-the-badge&logo=ros&logoColor=black"/>
@@ -25,44 +50,9 @@
   <img src="https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=cyberdefense&logoColor=white"/>
 </p>
 
----
+--- 
 
-### 🌐 Redes Sociais
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a><!--
-  --><a href="https://twitter.com/exemplo" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
----
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-    <td>
-   <img src="https://media.giphy.com/media/rzcYzbp8BZmwWTUPFa/giphy.gif" width="300" alt="robot pixel gif" />
-  </tr>
-</table>
-
----
-
-### 👨‍💻 <span id="sobre-mim">Sobre mim</span>
-
-Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas educacionais inteligentes e ambientes seguros de testes.
-
-Durante 2024/2025, trabalhei com arquiteturas distribuídas em **ROS 2**, desenvolvi algoritmos de automação com **Python** para desafios computacionais, criei interfaces gráficas em **Java** com foco em usabilidade e clareza de código, e aprofundei meus estudos em **cibersegurança**, realizando simulações em ambientes isolados com máquinas virtuais no **VirtualBox** e no **Kali Linux**.  
-Acredito que a engenharia de software começa pela organização do pensamento — e termina com código limpo, testável, seguro e útil.
-
----
-
-### ⚙️ Habilidades por área
+## 🧠 Minhas Especialidades Técnicas
 
 - **Robótica e Sistemas Embarcados:**  
   ROS 2, C++, comunicação assíncrona, controle em tempo real, arquitetura modular.
@@ -81,13 +71,30 @@ Acredito que a engenharia de software começa pela organização do pensamento �
 
 - **Outras Tecnologias:**  
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical" width="45%" style="display:inline-block; margin-right: 20px;" />
   
-  <img src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical" width="45%" style="display:inline-block;" />
+---
+
+<table align="center" style="width: 100%;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="350"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Aqui está o GIF separado para evitar estilo herdado da tabela -->
+<p align="center" style="margin-top: 20px; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif" alt="Robot" width="300" style="background: none; box-shadow: none;"/>
 </p>
+
+
+<!-- GitHub Streak -->
+<!-- <img width="97%" src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true" /> -->
+
+
 
 
 <p align="center">
