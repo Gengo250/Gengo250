@@ -7,30 +7,22 @@
   </a>
 </h1>
 
-<!-- Ícones centralizados + GIF à extrema direita (alinhado) -->
-<p align="center">
-  <!-- GIF maior à direita -->
+<div align="left">
+  <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="110" />
 
-  <!-- seus ícones (inalterados) -->
-  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank">
-    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_geng0_" target="_blank">
-    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/_geng0_" target="_blank">
-    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
-  </a>
-</p>
-<br clear="both" />
+
+<div align="left">
+  <!-- mantive a estrutura com <img>, só troquei os src dos que você já tinha -->
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="assets/icons/instagram.svg" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="35" alt="gmail logo"  />
+  <img src="assets/icons/linkedin.svg" height="35" alt="linkedin logo"  />
+</div>
+
 
 
 
