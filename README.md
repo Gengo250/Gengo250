@@ -12,13 +12,24 @@
   <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="180" />
-  
+
 <div align="left">
-  <img src="assets/icons/instagram.svg" height="50" alt="instagram logo" />
+  <!-- Instagram -->
+  <a href="https://instagram.com/_geng0_" target="_blank" rel="noopener noreferrer" title="Instagram">
+    <img src="assets/icons/instagram.svg" height="64" alt="instagram logo" />
+  </a>
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50" alt="gmail logo" />
+
+  <!-- Gmail (menor) -->
+  <a href="mailto:miguelgengo28@gmail.com" title="Enviar email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" alt="gmail logo" />
+  </a>
   <img width="24" />
-  <img src="assets/icons/linkedin.svg" height="50" alt="linkedin logo" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="assets/icons/linkedin.svg" height="64" alt="linkedin logo" />
+  </a>
 </div>
 
 
