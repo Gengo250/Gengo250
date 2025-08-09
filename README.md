@@ -16,7 +16,7 @@
 <div align="left">
   <!-- mantive a estrutura com <img>, só troquei os src dos que você já tinha -->
   <img src="assets/icons/instagram.svg" height="60" alt="instagram logo"  />
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="60" alt="gmail logo"  />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="gmail logo"  />
   <img src="assets/icons/linkedin.svg" height="60" alt="linkedin logo"  />
 </div>
 
