@@ -10,21 +10,22 @@
 <p align="center" style="font-size:0;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="assets/icons/linkedin.svg" height="48" alt="LinkedIn"/>
+    <img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
   </a>
   <!-- Gmail -->
   <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="margin:0 14px; display:inline-block;">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="48" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/>
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="assets/icons/instagram.svg" height="48" alt="Instagram"/>
+    <img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
   </a>
   <!-- Twitter/X -->
   <a href="https://twitter.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="assets/icons/twitter.svg" height="48" alt="Twitter/X"/>
+    <img src="assets/icons/twitter.svg" width="48" height="48" alt="Twitter/X"/>
   </a>
 </p>
+
 
 
 
