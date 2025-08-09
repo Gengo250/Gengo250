@@ -12,14 +12,12 @@
   <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="180" />
-
 <div align="left">
-  <!-- mantive a estrutura com <img>, só aumentei tamanho e espaçamento -->
-  <img src="assets/icons/instagram.svg" height="64" alt="instagram logo" />
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail logo" />
-  <img width="24" />
-  <img src="assets/icons/linkedin.svg" height="64" alt="linkedin logo" />
+  <img src="assets/icons/instagram.svg" height="90" alt="instagram logo" style="vertical-align: middle;" />
+  <img width="32" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="80" alt="gmail logo" style="vertical-align: middle;" />
+  <img width="32" />
+  <img src="assets/icons/linkedin.svg" height="90" alt="linkedin logo" style="vertical-align: middle;" />
 </div>
 
 
