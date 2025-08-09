@@ -10,14 +10,14 @@
 <div align="left">
   <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-       alt="Dev desk animation" align="right" width="110" />
+       alt="Dev desk animation" align="right" width="180" />
 
 
 <div align="left">
   <!-- mantive a estrutura com <img>, só troquei os src dos que você já tinha -->
-  <img src="assets/icons/instagram.svg" height="35" alt="instagram logo"  />
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="35" alt="gmail logo"  />
-  <img src="assets/icons/linkedin.svg" height="35" alt="linkedin logo"  />
+  <img src="assets/icons/instagram.svg" height="60" alt="instagram logo"  />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="60" alt="gmail logo"  />
+  <img src="assets/icons/linkedin.svg" height="60" alt="linkedin logo"  />
 </div>
 
 
