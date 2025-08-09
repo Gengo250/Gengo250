@@ -7,28 +7,20 @@
   </a>
 </h1>
 
-
 <p align="center" style="font-size:0;">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/miguel-gengo-8157b72a1" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/CLorant/readme-social-icons@main/medium/colored/linkedin.svg" height="36" alt="LinkedIn"/>
+    <img src="assets/icons/linkedin.svg" height="36" alt="LinkedIn"/>
   </a><!--
-  --><!-- Gmail -->
-  <a href="mailto:miguelgengo28@gmail.com" target="_blank" style="display:inline-block; margin:0 14px;">
-  <img src="https://cdn.jsdelivr.net/gh/CLorant/readme-social-icons@main/medium/colored/email.svg" height="36" alt="Gmail"/>
+  --><a href="mailto:miguelgengo28@gmail.com" target="_blank" style="display:inline-block; margin:0 14px;">
+    <img src="assets/icons/email.svg" height="36" alt="Gmail"/>
   </a><!--
-  --><!-- Instagram -->
-  <a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/CLorant/readme-social-icons@main/medium/colored/instagram.svg" height="36" alt="Instagram"/>
+  --><a href="https://instagram.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
+    <img src="assets/icons/instagram.svg" height="36" alt="Instagram"/>
   </a><!--
-  --><!-- Twitter -->
-  <a href="https://twitter.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/CLorant/readme-social-icons@main/medium/colored/twitter.svg" height="36" alt="Twitter"/>
+  --><a href="https://twitter.com/_geng0_" target="_blank" style="display:inline-block; margin:0 14px;">
+    <img src="assets/icons/twitter.svg" height="36" alt="Twitter/X"/>
   </a>
 </p>
-
-
-
 
 
 <p align="center">
