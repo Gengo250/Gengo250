@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Gmail" width="48" height="48" src="https://cdn.simpleicons.org/gmail/EA4335" />][gmail]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--[<img alt="Instagram" width="48" height="48" src="assets/icons/instagram.svg" />][instagram]--->
+<!--[<img alt="Instagram" width="48" height="48" src="assets/icons/instagram.svg" />][instagram]-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Twitter/X" width="48" height="48" src="assets/icons/twitter.svg" />][twitter]
 </p>
