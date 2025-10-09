@@ -74,11 +74,9 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   POO, clareza estrutural, reutilização de código, testes e manutenção a longo prazo.
 
 - **Cibersegurança e Ambientes Virtuais:**
-  <a href="https://github.com/Gengo250"><img alt="Labs_Cybersec" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Labs_Cybersec-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>  
   Kali Linux, VirtualBox, análise de vulnerabilidades, testes em sandbox, engenharia reversa básica, simulação de ataques controlados.
 
 - **Outras Tecnologias:**
-  <a href="https://github.com/Gengo250/Projeto_Farms_Minecraft"><img alt="Projeto_Farms_Minecraft" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Projeto_Farms_Minecraft-0E7C86?style=for-the-badge&logo=javascript&logoColor=white"/></a>  
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
 
   
