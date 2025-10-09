@@ -63,8 +63,10 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   ROS 2, C++, comunicação assíncrona, controle em tempo real, arquitetura modular.
 
 - **Automação Inteligente e Lógica Computacional:**
-  <a href="https://github.com/Gengo250/CHATBOT_OPEN_IA"><img alt="CHATBOT_OPEN_IA" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/CHATBOT_OPEN_IA-000?style=for-the-badge&logo=python&logoColor=white"/></a>  
+  <a href="https://github.com/Gengo250/CHATBOT_OPEN_IA"><img alt="CHATBOT_OPEN_IA" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/CHATBOT_OPEN_IA-000?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://github.com/Gengo250/App-GradeTurmas-Python"><img alt="App_GradeTurmas_Python" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/App_GradeTurmas_Python-0B7285?style=for-the-badge&logo=python&logoColor=white"/></a>  
   Python, algoritmos, automação de tarefas, desafios matemáticos complexos.
+
 
 - **Desenvolvimento de Interfaces e Aplicações:**
   <a href="https://github.com/Gengo250/Projeto_Game_2d_JAVA"><img alt="Projeto_Game_2D_JAVA" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Projeto_Game_2D_JAVA-B07219?style=for-the-badge&logo=java&logoColor=white"/></a>  
