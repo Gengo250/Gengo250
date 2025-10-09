@@ -57,23 +57,30 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 
 ## 🧠 Minhas Especialidades Técnicas
 
-- **Robótica e Sistemas Embarcados:**  
+- **Robótica e Sistemas Embarcados:**
+  <a href="https://github.com/Gengo250/ESP32_CAM"><img alt="ESP32_CAM" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/ESP32_CAM-ED1C24?style=for-the-badge&logo=espressif&logoColor=white"/></a>  
   ROS 2, C++, comunicação assíncrona, controle em tempo real, arquitetura modular.
 
-- **Automação Inteligente e Lógica Computacional:**  
+- **Automação Inteligente e Lógica Computacional:**
+  <a href="https://github.com/Gengo250/CHATBOT_OPEN_IA"><img alt="CHATBOT_OPEN_IA" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/CHATBOT_OPEN_IA-000?style=for-the-badge&logo=python&logoColor=white"/></a>  
   Python, algoritmos, automação de tarefas, desafios matemáticos complexos.
 
-- **Desenvolvimento de Interfaces e Aplicações:**  
+- **Desenvolvimento de Interfaces e Aplicações:**
+  <a href="https://github.com/Gengo250/Projeto_Game_2d_JAVA"><img alt="Projeto_Game_2D_JAVA" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Projeto_Game_2D_JAVA-B07219?style=for-the-badge&logo=java&logoColor=white"/></a>  
   Java (Swing), Programação Orientada a Objetos, design de interfaces, foco em experiência do usuário.
 
-- **Engenharia de Software:**  
+- **Engenharia de Software:**
+  <a href="https://github.com/Gengo250/Projeto_1_ESTRUTURA_DE_DADOS"><img alt="Estruturas_de_Dados" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Estruturas_de_Dados-2E7D32?style=for-the-badge&logo=c&logoColor=white"/></a>  
   POO, clareza estrutural, reutilização de código, testes e manutenção a longo prazo.
 
-- **Cibersegurança e Ambientes Virtuais:**  
+- **Cibersegurança e Ambientes Virtuais:**
+  <a href="https://github.com/Gengo250"><img alt="Labs_Cybersec" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Labs_Cybersec-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>  
   Kali Linux, VirtualBox, análise de vulnerabilidades, testes em sandbox, engenharia reversa básica, simulação de ataques controlados.
 
-- **Outras Tecnologias:**  
+- **Outras Tecnologias:**
+  <a href="https://github.com/Gengo250/Projeto_Farms_Minecraft"><img alt="Projeto_Farms_Minecraft" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Projeto_Farms_Minecraft-0E7C86?style=for-the-badge&logo=javascript&logoColor=white"/></a>  
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
+
   
 ---
 
