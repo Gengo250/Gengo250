@@ -74,6 +74,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   POO, clareza estrutural, reutilização de código, testes e manutenção a longo prazo.
 
 - **Cibersegurança e Ambientes Virtuais:**
+  
   Kali Linux, VirtualBox, análise de vulnerabilidades, testes em sandbox, engenharia reversa básica, simulação de ataques controlados.
 
 - **Outras Tecnologias:**
