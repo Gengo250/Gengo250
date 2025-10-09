@@ -58,7 +58,8 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 ## 🧠 Minhas Especialidades Técnicas
 
 - **Robótica e Sistemas Embarcados:**
-  <a href="https://github.com/Gengo250/ESP32_CAM"><img alt="ESP32_CAM" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/ESP32_CAM-ED1C24?style=for-the-badge&logo=espressif&logoColor=white"/></a>  
+  <a href="https://github.com/Gengo250/ESP32_CAM"><img alt="ESP32_CAM" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/ESP32_CAM-ED1C24?style=for-the-badge&logo=espressif&logoColor=white"/></a>
+  <a href="https://github.com/Gengo250/Garra_Mecanica_Arduino"><img alt="Garra_Mecanica_Arduino" height="26" style="vertical-align:middle; margin-left:8px;" src="https://img.shields.io/badge/Garra_Mecanica_Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>  
   ROS 2, C++, comunicação assíncrona, controle em tempo real, arquitetura modular.
 
 - **Automação Inteligente e Lógica Computacional:**
