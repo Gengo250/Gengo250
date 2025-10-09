@@ -50,7 +50,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=cyberdefense&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 </p>
 
 --- 
