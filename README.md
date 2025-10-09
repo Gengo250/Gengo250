@@ -77,6 +77,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   Kali Linux, VirtualBox, análise de vulnerabilidades, testes em sandbox, engenharia reversa básica, simulação de ataques controlados.
 
 - **Outras Tecnologias:**
+  
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
 
   
