@@ -29,7 +29,7 @@
 [twitter]: https://twitter.com/_geng0_
 
 
-<p align="center" style="max-width: 800px; margin: auto; font-size: 30px;"> 
+<p align="center" style="max-width: 900px; margin: auto; font-size: 30px;"> 
 Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas automatizados inteligentes e ambientes seguros de testes. Durante 2024/2025, trabalhei com arquiteturas distribuídas em ROS 2, desenvolvi algoritmos de automação com Python para desafios computacionais, criei interfaces gráficas em Java com foco em usabilidade e clareza de código, e aprofundei meus estudos em cibersegurança, realizando simulações em ambientes isolados com máquinas virtuais no VirtualBox e no Kali Linux. Em paralelo, cursei no Museu da Matemática — Prandiano, que me fizeram dominar a resolução de problemas matemáticos demandados pelo mercado — modelagem, otimização, análise estatística e raciocínio combinatório — e traduzi-los em algoritmos eficientes e soluções aplicáveis ao negócio. 
 </p>
 
