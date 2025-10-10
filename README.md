@@ -30,7 +30,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 
 [linkedin]: https://www.linkedin.com/in/miguel-gengo-8157b72a1
 [gmail]: mailto:miguelgengo28@gmail.com
-<[instagram]: https://instagram.com/_geng0_>
+[instagram]: https://instagram.com/_geng0_
 [twitter]: https://twitter.com/_geng0_
 
 
