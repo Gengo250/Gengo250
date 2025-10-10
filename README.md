@@ -9,11 +9,11 @@
 
 
 
-<div align="left">
+<!--<div align="left">
   <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
-       alt="Dev desk animation" align="right" width="180" />
-<br clear="both">
+       alt="Dev desk animation" align="right" width="180" >
+<!--<br clear="both> -->
 
 <h3 align="left"></h3>
 
