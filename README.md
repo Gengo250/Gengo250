@@ -23,14 +23,14 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Gmail" width="48" height="48" src="https://cdn.simpleicons.org/gmail/EA4335" />][gmail]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<[<img alt="Instagram" width="48" height="48" src="assets/icons/instagram.svg" />][instagram]-->
+<[<img alt="Instagram" width="48" height="48" src="assets/icons/instagram.svg" />][instagram]>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Twitter/X" width="48" height="48" src="assets/icons/twitter.svg" />][twitter]
 
 
 [linkedin]: https://www.linkedin.com/in/miguel-gengo-8157b72a1
 [gmail]: mailto:miguelgengo28@gmail.com
-<!--[instagram]: https://instagram.com/_geng0_-->
+<[instagram]: https://instagram.com/_geng0_>
 [twitter]: https://twitter.com/_geng0_
 
 
