@@ -80,6 +80,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
 </p>
 
+--- 
 
 ## 🧠 Minhas Especialidades Técnicas
 
