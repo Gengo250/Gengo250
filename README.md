@@ -58,13 +58,21 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="45" alt="arch linux logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="ubuntu logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
   <img width="12" />
