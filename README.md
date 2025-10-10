@@ -12,7 +12,7 @@
 
 
 
-<h2 align="left">Olá 👋 Sou Engenheiro em formação que integra hardware, software e cibersegurança para resolver problemas práticos — de robôs em tempo real a interfaces intuitivas. Experiência recente: ROS 2, Python para automação, Java (GUI) e ambientes isolados (VirtualBox/Kali). Base forte em modelagem, otimização, estatística e combinatória (Museu da Matemática — Prandiano).</h2>
+<h2 align="left">Olá 👋 Sou Engenheiro em formação que integra hardware, software para resolver problemas práticos — de robôs em tempo real a interfaces intuitivas. Experiência recente: ROS 2, Python para automação, Java (GUI). Base forte em modelagem, otimização, estatística e combinatória (Museu da Matemática — Prandiano).</h2>
 
 
 
