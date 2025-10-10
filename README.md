@@ -121,14 +121,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gengo250&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="500" alt="languages graph"  />
 </div>
 
-<!-- GIFs empilhados (levemente menores) -->
-<div align="center">
-  <img
-    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgurK0DVZkdihCB2PprxSNJ741GCke6ulREeBBQqvht7lPr5PcHTEUfIROvg4SkxdYmx0AKOq4GTgEFGJsmfKAy4lhAB6jO6uoNQGIWhoa1OzLYeJFBBW8hRScKm8Pl9Lnz_bO0dtxRb60/s1600/20.gif"
-    alt="Sprite GIF" width="760" style="max-width: 100%; display: block; margin: 0 auto 14px;" />
- 
-
-
 
 
 
