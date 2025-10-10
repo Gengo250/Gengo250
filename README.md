@@ -81,9 +81,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
   <img width="12" />
-  <!-- Novo: Shell Script (bash do devicon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="shell script logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cmake/064F8C" height="45" alt="cmake logo"  />
