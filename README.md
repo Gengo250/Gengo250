@@ -7,9 +7,7 @@
   </a>
 </h1>
 
-
-
-<<br clear="both>
+<br clear="both>
 
 <h3 align="left"></h3>
 
