@@ -13,6 +13,22 @@
   <!-- GIF à direita (do código antigo) -->
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/assets/robot.gif"
        alt="Dev desk animation" align="right" width="180" />
+<br clear="both">
+
+<h3 align="left"></h3>
+
+###
+
+<br clear="both">
+
+<img align="right" height="145" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R2bjBuMnYyb2FlMDNvcHJ2YzE4M3JpeTh4cjN3azNheWJlZWg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
+
+###
+
+<h2 align="left">Engenheiro em formação que integra hardware, software e cibersegurança para resolver problemas práticos — de robôs em tempo real a interfaces intuitivas. Experiência recente: ROS 2, Python para automação, Java (GUI) e ambientes isolados (VirtualBox/Kali). Base forte em modelagem, otimização, estatística e combinatória (Museu da Matemática — Prandiano).</h2>
+
+###
+
 
 <!--p align="center" style="max-width: 900px; margin: auto; font-size: 45px;"> 
 Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardware, software, lógica aplicada e segurança para resolver problemas reais. Ao longo dos últimos anos, me especializei em transformar conceitos técnicos em soluções práticas — desde o controle de robôs em tempo real até o desenvolvimento de interfaces intuitivas, sistemas automatizados inteligentes e ambientes seguros de testes. Durante 2024/2025, trabalhei com arquiteturas distribuídas em ROS 2, desenvolvi algoritmos de automação com Python para desafios computacionais, criei interfaces gráficas em Java com foco em usabilidade e clareza de código, e aprofundei meus estudos em cibersegurança, realizando simulações em ambientes isolados com máquinas virtuais no VirtualBox e no Kali Linux. Em paralelo, cursei no Museu da Matemática — Prandiano, que me fizeram dominar a resolução de problemas matemáticos demandados pelo mercado — modelagem, otimização, análise estatística e raciocínio combinatório — e traduzi-los em algoritmos eficientes e soluções aplicáveis ao negócio. 
