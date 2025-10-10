@@ -63,19 +63,19 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/cmake/064F8C" height="30" alt="cmake logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
 </p>
 
