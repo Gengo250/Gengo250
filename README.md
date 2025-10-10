@@ -94,18 +94,11 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 ---
 
 <!-- Stats + Top Langs + Streak (centralizados, sem tabela) -->
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Gengo250&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats" width="430" />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengo250&layout=compact&theme=radical&hide_border=true"
-    alt="Top Langs" width="370" />
-  <br/><br/>
-  <img
-    src="https://streak-stats.demolab.com/?user=Gengo250&theme=radical&hide_border=true"
-    alt="GitHub Streak" width="820" />
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gengo250&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <!-- GIFs empilhados (levemente menores) -->
