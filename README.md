@@ -35,11 +35,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 
 
 
-
-
----
-
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
