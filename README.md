@@ -38,7 +38,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 [instagram]: https://instagram.com/_geng0_
 [twitter]: https://twitter.com/_geng0_
 
-
+---
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="45" alt="html5 logo"  />
