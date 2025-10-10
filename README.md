@@ -9,8 +9,6 @@
 
 <h3 align="left"></h3>
 
-###
-
 <br clear="both">
 
 <img align="right" height="145" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R2bjBuMnYyb2FlMDNvcHJ2YzE4M3JpeTh4cjN3azNheWJlZWg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
@@ -79,7 +77,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
 </p>
 
---- 
 
 ## 🧠 Minhas Especialidades Técnicas
 
@@ -111,7 +108,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   Git/GitHub, HTML/CSS/JS, Linux, shell scripting, MongoDB, SQL.
 
   
----
 
 <!-- Stats + Top Langs + Streak (centralizados, sem tabela) -->
 <br clear="both">
