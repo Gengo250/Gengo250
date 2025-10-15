@@ -4,9 +4,6 @@
   </a>
 </h2>
 
-<h2 align="left"></h2>
-
-<br clear="both">
 
 <img align="right" height="145" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R2bjBuMnYyb2FlMDNvcHJ2YzE4M3JpeTh4cjN3azNheWJlZWg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"  />
 
