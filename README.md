@@ -9,7 +9,8 @@
 
 
 
-<h2 align="left">Sou Engenheiro de Computação que integra hardware, software para resolver problemas práticos — de robôs em tempo real a interfaces intuitivas. Experiência recente: ROS 2, Python para automação, Java (GUI). Base forte em modelagem, otimização, estatística e combinatória (Museu da Matemática — Prandiano).</h2>
+<h2 align="left">I am a Computer Engineering student who integrates hardware and software to solve practical problems — from real-time robots to intuitive interfaces. Experience: ROS 2, Python for automation, Java (GUI). Strong foundation in modeling, optimization, statistics, and combinatorics (Museum of Mathematics — Prandiano).</h2>
+
 
 
 
