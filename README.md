@@ -41,45 +41,46 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="45" alt="arch linux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="ubuntu logo" />
-  <img width="12" />
-  <!-- Novo: Kali Linux -->
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="kali linux logo" />
-  <img width="12" />
-  <!-- Novo: VirtualBox -->
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" height="45" alt="virtualbox logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="45" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/cmake/064F8C" height="45" alt="cmake logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="45" alt="arch linux logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="ubuntu logo" />
+<img width="12" />
+<!-- Novo: Kali Linux -->
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="kali linux logo" />
+<img width="12" />
+<!-- Novo: VirtualBox -->
+<img src="https://cdn.simpleicons.org/virtualbox/183A61" height="45" alt="virtualbox logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" alt="matlab logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45" alt="raspberrypi logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="c logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
+
 </p>
 
 --- 
