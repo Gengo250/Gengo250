@@ -41,12 +41,11 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 ---
 
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
 <img width="12" />
-<img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=flat-square" height="45" alt="CMake badge" />
-<img width="12" />
+<img src="https://cdn.simpleicons.org/cmake/064F8C" height="45" alt="cmake logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
 <img width="12" />
@@ -81,6 +80,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="c logo"  />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
+
 
 </p>
 
