@@ -163,7 +163,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 </table>
 <div align="center">
   <details style="display:inline-block; text-align:left; max-width: 900px;">
-    <summary><b>📌 Por que esses projetos importam (impacto rápido)</b></summary>
+    <summary><b>📌 Por que esses projetos importam</b></summary>
     <br/>
     <ul>
       <li><b>LOGFORGE-OBSERVABILITY</b> — parser + endpoint <code>/metrics</code> + Prometheus + Grafana (demo com Docker Compose).</li>
