@@ -158,7 +158,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
     </td>
   </tr>
 </table>
-
+<p>
 <details>
   <summary><b>📌 Por que esses projetos importam (impacto rápido)</b></summary>
   <br/>
