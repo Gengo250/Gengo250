@@ -153,10 +153,11 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
       </a>
     </td>
     <td align="center" style="padding: 8px 10px;">
-      <a href="https://github.com/Gengo250/snake-terminal-ncurses-cpp">
-        <img width="420" style="display:block;" alt="snake-terminal-ncurses-cpp"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=snake-terminal-ncurses-cpp&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
-      </a>
+  <a href="https://github.com/Gengo250/CHATBOT_OPEN_IA">
+    <img width="420" style="display:block;" alt="CHATBOT_OPEN_IA"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=CHATBOT_OPEN_IA&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
+  </a>
+</td>
     </td>
   </tr>
 </table>
