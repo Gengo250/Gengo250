@@ -159,11 +159,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Gengo250?tab=repositories">
-    <img alt="Ver todos os repositórios" src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 <details>
   <summary><b>📌 Por que esses projetos importam (impacto rápido)</b></summary>
   <br/>
