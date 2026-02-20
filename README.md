@@ -97,69 +97,69 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 </p>
 
 --- 
-
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/LOGFORGE-OBSERVABILITY">
-        <img width="420" alt="LOGFORGE-OBSERVABILITY"
+        <img width="420" style="display:block;" alt="LOGFORGE-OBSERVABILITY"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=LOGFORGE-OBSERVABILITY&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/conversor-pdf-cpp">
-        <img width="420" alt="conversor-pdf-cpp"
+        <img width="420" style="display:block;" alt="conversor-pdf-cpp"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=conversor-pdf-cpp&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/gmail-clear">
-        <img width="420" alt="gmail-clear"
+        <img width="420" style="display:block;" alt="gmail-clear"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=gmail-clear&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/CrowAuthSessions-MariaDB">
-        <img width="420" alt="CrowAuthSessions-MariaDB"
+        <img width="420" style="display:block;" alt="CrowAuthSessions-MariaDB"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=CrowAuthSessions-MariaDB&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/LOGFORGE-CPP">
-        <img width="420" alt="LOGFORGE-CPP"
+        <img width="420" style="display:block;" alt="LOGFORGE-CPP"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=LOGFORGE-CPP&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/MiniCacheDB">
-        <img width="420" alt="MiniCacheDB"
+        <img width="420" style="display:block;" alt="MiniCacheDB"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=MiniCacheDB&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/Projeto_Game_2d_JAVA">
-        <img width="420" alt="Projeto_Game_2d_JAVA"
+        <img width="420" style="display:block;" alt="Projeto_Game_2d_JAVA"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=Projeto_Game_2d_JAVA&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
+    </td>
+    <td align="center" style="padding: 8px 10px;">
       <a href="https://github.com/Gengo250/snake-terminal-ncurses-cpp">
-        <img width="420" alt="snake-terminal-ncurses-cpp"
+        <img width="420" style="display:block;" alt="snake-terminal-ncurses-cpp"
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=snake-terminal-ncurses-cpp&theme=gruvbox&border_radius=12&cache_seconds=86400&description_lines_count=2" />
       </a>
     </td>
   </tr>
 </table>
-
 <div align="center">
   <details style="display:inline-block; text-align:left; max-width: 900px;">
     <summary><b>📌 Por que esses projetos importam (impacto rápido)</b></summary>
