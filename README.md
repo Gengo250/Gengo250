@@ -57,6 +57,15 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 <img width="12" />
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="ubuntu logo" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" alt="Prometheus" title="Prometheus" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="Grafana" title="Grafana" />
+<img src="https://cdn.simpleicons.org/redis/FF4438" height="45" alt="Redis" title="Redis Streams" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" title="MySQL/MariaDB" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" title="MongoDB" />
+<img width="12" />
 <!-- Novo: Kali Linux -->
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="kali linux logo" />
 <img width="12" />
