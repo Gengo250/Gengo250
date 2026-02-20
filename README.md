@@ -60,6 +60,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" alt="Prometheus" title="Prometheus" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="Grafana" title="Grafana" />
+<img width="12" />
 <img src="https://cdn.simpleicons.org/redis/FF4438" height="45" alt="Redis" title="Redis Streams" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" title="MySQL/MariaDB" />
