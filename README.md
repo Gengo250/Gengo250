@@ -97,6 +97,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 </p>
 
 --- 
+
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <table align="center">
@@ -157,6 +158,24 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
       </a>
     </td>
   </tr>
+</table>
+
+<div align="center">
+  <details style="display:inline-block; text-align:left; max-width: 900px;">
+    <summary><b>📌 Por que esses projetos importam (impacto rápido)</b></summary>
+    <br/>
+    <ul>
+      <li><b>LOGFORGE-OBSERVABILITY</b> — parser + endpoint <code>/metrics</code> + Prometheus + Grafana (demo com Docker Compose).</li>
+      <li><b>LOGFORGE-CPP</b> — processamento em streaming e métricas (p50/p95/p99, top endpoints, picos) com output em JSON/CSV.</li>
+      <li><b>MiniCacheDB</b> — servidor TCP chave-valor em C++20 (mini Redis): thread pool, TTL opcional, AOF e testes.</li>
+      <li><b>conversor-pdf-cpp</b> — webapp em C++20 com jobs assíncronos: Crow + Redis Streams + MariaDB + LibreOffice headless.</li>
+      <li><b>gmail-clear</b> — automação pessoal em Python com Gmail API + OAuth 2.0: <code>plan</code> (dry-run) e <code>run --apply</code>.</li>
+      <li><b>CrowAuthSessions-MariaDB</b> — autenticação + sessões persistidas no MariaDB (rotas protegidas e stack web em C++20).</li>
+      <li><b>Projeto_Game_2d_JAVA</b> — game 2D completo em Java (engine própria, IA/pathfinding, inventário, bosses, etc.).</li>
+      <li><b>CHATBOT_OPEN_IA</b> — app desktop (Python+Tkinter) com chat + análise de imagens e integração com OpenAI.</li>
+    </ul>
+  </details>
+</div>
 
 <p align="center">
   <a href="https://github.com/Gengo250?tab=repositories">
@@ -170,10 +189,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
     <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="750" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gengo250&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="750" alt="languages graph"  />
 </div>
-
-
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/output/snake.svg" alt="Snake animation" />
