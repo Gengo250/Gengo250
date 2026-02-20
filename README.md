@@ -67,6 +67,8 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" title="MongoDB" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="45" alt="ROS" title="ROS 2" />
+<img width="12" />
 <!-- Novo: Kali Linux -->
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="kali linux logo" />
 <img width="12" />
