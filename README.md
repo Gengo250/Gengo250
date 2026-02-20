@@ -96,6 +96,65 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 
 </p>
 
+<h2 align="center">🚀 Projetos em Destaque</h2>
+<p align="center">
+  Back-end em C++20, observabilidade, filas assíncronas e automação prática (Gmail API).
+</p>
+
+<div align="center">
+  <a href="https://github.com/Gengo250/LOGFORGE-OBSERVABILITY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=LOGFORGE-OBSERVABILITY&theme=gruvbox&hide_border=false" />
+  </a>
+  <a href="https://github.com/Gengo250/LOGFORGE-CPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=LOGFORGE-CPP&theme=gruvbox&hide_border=false" />
+  </a>
+  <a href="https://github.com/Gengo250/MiniCacheDB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=MiniCacheDB&theme=gruvbox&hide_border=false" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Gengo250/conversor-pdf-cpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=conversor-pdf-cpp&theme=gruvbox&hide_border=false" />
+  </a>
+  <a href="https://github.com/Gengo250/gmail-clear">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=gmail-clear&theme=gruvbox&hide_border=false" />
+  </a>
+  <a href="https://github.com/Gengo250/CrowAuthSessions-MariaDB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=CrowAuthSessions-MariaDB&theme=gruvbox&hide_border=false" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Gengo250/Projeto_Game_2d_JAVA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=Projeto_Game_2d_JAVA&theme=gruvbox&hide_border=false" />
+  </a>
+  <a href="https://github.com/Gengo250/CHATBOT_OPEN_IA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=CHATBOT_OPEN_IA&theme=gruvbox&hide_border=false" />
+  </a>
+</div>
+
+<details>
+  <summary><b>📌 Por que esses projetos importam (impacto rápido)</b></summary>
+  <br/>
+  <ul align="left">
+    <li><b>LOGFORGE-OBSERVABILITY</b> — parser + endpoint <code>/metrics</code> + Prometheus + Grafana (demo com Docker Compose).</li>
+    <li><b>LOGFORGE-CPP</b> — processamento em streaming e métricas (p50/p95/p99, top endpoints, picos) com output em JSON/CSV.</li>
+    <li><b>MiniCacheDB</b> — servidor TCP chave-valor em C++20 (mini Redis): thread pool, TTL opcional, AOF e testes.</li>
+    <li><b>conversor-pdf-cpp</b> — webapp em C++20 com jobs assíncronos: Crow + Redis Streams + MariaDB + LibreOffice headless.</li>
+    <li><b>gmail-clear</b> — automação pessoal em Python com Gmail API + OAuth 2.0: <code>plan</code> (dry-run) e <code>run --apply</code>.</li>
+    <li><b>CrowAuthSessions-MariaDB</b> — autenticação + sessões persistidas no MariaDB (rotas protegidas e stack web em C++20).</li>
+    <li><b>Projeto_Game_2d_JAVA</b> — game 2D completo em Java (engine própria, IA/pathfinding, inventário, bosses, etc.).</li>
+    <li><b>CHATBOT_OPEN_IA</b> — app desktop (Python+Tkinter) com chat + análise de imagens e integração com OpenAI.</li>
+  </ul>
+</details>
+
+<p align="center">
+  <a href="https://github.com/Gengo250?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 --- 
 
 <!--## 🧠 Minhas Especialidades Técnicas
