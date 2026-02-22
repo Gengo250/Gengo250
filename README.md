@@ -188,12 +188,38 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   </a>
 </p>
 
-<!-- Stats + Top Langs + Streak (centralizados, sem tabela) -->
-<br clear="both"> 
-<div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Gengo250&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="750" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gengo250&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="750" alt="languages graph"  />
-</div>
+<!-- GitHub Profile Summary Cards (substitui o bloco antigo de stats) -->
+<br clear="both">
+
+<!-- Troque o tema aqui: gruvbox | 2077 | github_dark | tokyonight | radical | zenburn | ... -->
+<!-- Arquivos gerados pelo workflow ficam em: profile-summary-card-output/<tema>/ -->
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 8px 10px;">
+      <img style="display:block;" alt="Stats"
+        src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/profile-summary-card-output/gruvbox/3-stats.svg" />
+    </td>
+    <td align="center" style="padding: 8px 10px;">
+      <img style="display:block;" alt="Top Languages by Repo"
+        src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
+    </td>
+    <td align="center" style="padding: 8px 10px;">
+      <img style="display:block;" alt="Top Languages by Commit"
+        src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center" style="padding: 8px 10px;">
+      <img style="display:block;" alt="Profile Details"
+        src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/profile-summary-card-output/gruvbox/0-profile-details.svg" />
+    </td>
+    <td align="center" style="padding: 8px 10px;">
+      <img style="display:block;" alt="Productive Time"
+        src="https://raw.githubusercontent.com/Gengo250/Gengo250/main/profile-summary-card-output/gruvbox/4-productive-time.svg" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gengo250/Gengo250/output/snake.svg" alt="Snake animation" />
