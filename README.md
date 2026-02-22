@@ -188,6 +188,23 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   </a>
 </p>
 
+<br clear="both">
+<div align="center">
+  <!-- Troque o theme aqui: 2077 | github_dark | tokyonight | dracula | nord_dark | ... -->
+  <img alt="Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gengo250&theme=2077" />
+  <img alt="Top Languages by Repo"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gengo250&theme=2077" />
+  <img alt="Top Languages by Commit"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gengo250&theme=2077" />
+
+  <br/>
+
+  <img alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gengo250&theme=2077" />
+  <img alt="Productive Time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gengo250&theme=2077&utcOffset=-3" />
+</div>
 
 
 <p align="center">
