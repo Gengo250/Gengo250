@@ -195,8 +195,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gengo250&theme=2077" />
   <img alt="Top Languages by Repo"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gengo250&theme=2077" />
-  <img alt="Top Languages by Commit"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gengo250&theme=2077" />
 
   <br/>
 
