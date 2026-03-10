@@ -97,7 +97,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 </p>
 
 --- 
-<h2 align="center">🚀 Projetos em Destaque</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
   <tr>
