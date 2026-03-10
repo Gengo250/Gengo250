@@ -182,7 +182,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   <a href="https://github.com/Gengo250?tab=repositories">
     <img
       src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0A0A0A?style=for-the-badge&logo=github&logoColor=white"
-      alt="Ver todos os repositórios"
+      alt="View all repositories"
       height="48"
     />
   </a>
