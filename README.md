@@ -163,19 +163,19 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 </table>
 <div align="center">
   <details style="display:inline-block; text-align:left; max-width: 900px;">
-    <summary><b>📌 Por que esses projetos importam</b></summary>
-    <br/>
-    <ul>
-      <li><b>LOGFORGE-OBSERVABILITY</b> — parser + endpoint <code>/metrics</code> + Prometheus + Grafana (demo com Docker Compose).</li>
-      <li><b>LOGFORGE-CPP</b> — processamento em streaming e métricas (p50/p95/p99, top endpoints, picos) com output em JSON/CSV.</li>
-      <li><b>MiniCacheDB</b> — servidor TCP chave-valor em C++20 (mini Redis): thread pool, TTL opcional, AOF e testes.</li>
-      <li><b>conversor-pdf-cpp</b> — webapp em C++20 com jobs assíncronos: Crow + Redis Streams + MariaDB + LibreOffice headless.</li>
-      <li><b>gmail-clear</b> — automação pessoal em Python com Gmail API + OAuth 2.0: <code>plan</code> (dry-run) e <code>run --apply</code>.</li>
-      <li><b>CrowAuthSessions-MariaDB</b> — autenticação + sessões persistidas no MariaDB (rotas protegidas e stack web em C++20).</li>
-      <li><b>Projeto_Game_2d_JAVA</b> — game 2D completo em Java (engine própria, IA/pathfinding, inventário, bosses, etc.).</li>
-      <li><b>CHATBOT_OPEN_IA</b> — app desktop (Python+Tkinter) com chat + análise de imagens e integração com OpenAI.</li>
-    </ul>
-  </details>
+   <summary><b>📌 Why these projects matter</b></summary>
+<br/>
+<ul>
+  <li><b>LOGFORGE-OBSERVABILITY</b> — parser + <code>/metrics</code> endpoint + Prometheus + Grafana (Docker Compose demo).</li>
+  <li><b>LOGFORGE-CPP</b> — streaming processing and metrics (p50/p95/p99, top endpoints, spikes) with JSON/CSV output.</li>
+  <li><b>MiniCacheDB</b> — C++20 TCP key-value server (mini Redis): thread pool, optional TTL, AOF, and tests.</li>
+  <li><b>conversor-pdf-cpp</b> — C++20 web app with asynchronous jobs: Crow + Redis Streams + MariaDB + LibreOffice headless.</li>
+  <li><b>gmail-clear</b> — personal Python automation with Gmail API + OAuth 2.0: <code>plan</code> (dry run) and <code>run --apply</code>.</li>
+  <li><b>CrowAuthSessions-MariaDB</b> — authentication + persisted sessions in MariaDB (protected routes and C++20 web stack).</li>
+  <li><b>Projeto_Game_2d_JAVA</b> — complete 2D Java game (custom engine, AI/pathfinding, inventory, bosses, etc.).</li>
+  <li><b>CHATBOT_OPEN_IA</b> — desktop app (Python + Tkinter) with chat, image analysis, and OpenAI integration.</li>
+</ul>
+</details>
 </div>
 
 <p align="center">
