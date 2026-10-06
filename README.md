@@ -42,65 +42,35 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 
 <h3 align="center">Tech Stack</h3>
 
-<div align="center">
+<p align="center">
+  <b>Languages</b><br />
+  <img height="48" alt="C++, C, Python, Java, Bash, MATLAB" src="https://skillicons.dev/icons?i=cpp,c,python,java,bash,matlab" />
+</p>
 
-<table align="center">
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" title="C++" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/c/A8B9CC" height="38" alt="C" title="C" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" title="Java" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="38" alt="MATLAB" title="MATLAB" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Robotics &amp; Embedded</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="38" alt="ROS 2" title="ROS 2" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="38" alt="Raspberry Pi" title="Raspberry Pi" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38" alt="Arduino" title="Arduino" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; Data</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/redis/FF4438" height="38" alt="Redis" title="Redis Streams" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" title="MySQL / MariaDB" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker" title="Docker" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Observability</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="38" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="38" alt="Grafana" title="Grafana" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" title="TensorFlow" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Systems &amp; Tooling</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" title="Linux" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="38" alt="Arch Linux" title="Arch Linux" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="38" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/cmake/064F8C" height="38" alt="CMake" title="CMake" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" title="VS Code" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Robotics &amp; Embedded</b><br />
+  <img height="48" alt="ROS 2, Raspberry Pi, Arduino" src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino" />
+</p>
 
-</div>
+<p align="center">
+  <b>Backend &amp; Data</b><br />
+  <img height="48" alt="Redis, MySQL / MariaDB, MongoDB, Docker" src="https://skillicons.dev/icons?i=redis,mysql,mongodb,docker" />
+</p>
+
+<p align="center">
+  <b>Observability</b><br />
+  <img height="48" alt="Prometheus, Grafana" src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+<p align="center">
+  <b>AI / ML</b><br />
+  <img height="48" alt="PyTorch, TensorFlow" src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="center">
+  <b>Systems &amp; Tooling</b><br />
+  <img height="48" alt="Linux, Arch, Ubuntu, CMake, Git, VS Code" src="https://skillicons.dev/icons?i=linux,arch,ubuntu,cmake,git,vscode" />
+</p>
 
 ---
 
@@ -173,5 +143,5 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 ---
 
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Gengo250/Gengo250/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Gengo250/Gengo250/output/snake.svg?v=2" />
 </p>
