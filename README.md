@@ -38,43 +38,39 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
 
 <br clear="both" />
 
----
+<h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Tech Stack</h3>
-
+<h3 align="center">Languages</h3>
 <p align="center">
-  <b>Languages</b><br />
   <img height="48" alt="C++, C, Python, Java, Bash, MATLAB" src="https://skillicons.dev/icons?i=cpp,c,python,java,bash,matlab" />
 </p>
 
+<h3 align="center">Robotics &amp; Embedded</h3>
 <p align="center">
-  <b>Robotics &amp; Embedded</b><br />
   <img height="48" alt="ROS 2, Raspberry Pi, Arduino" src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino" />
 </p>
 
+<h3 align="center">Backend &amp; Data</h3>
 <p align="center">
-  <b>Backend &amp; Data</b><br />
   <img height="48" alt="Redis, MySQL / MariaDB, MongoDB, Docker" src="https://skillicons.dev/icons?i=redis,mysql,mongodb,docker" />
 </p>
 
+<h3 align="center">Observability</h3>
 <p align="center">
-  <b>Observability</b><br />
   <img height="48" alt="Prometheus, Grafana" src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
+<h3 align="center">AI / ML</h3>
 <p align="center">
-  <b>AI / ML</b><br />
   <img height="48" alt="PyTorch, TensorFlow" src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
+<h3 align="center">Systems &amp; Tooling</h3>
 <p align="center">
-  <b>Systems &amp; Tooling</b><br />
   <img height="48" alt="Linux, Arch, Ubuntu, CMake, Git, VS Code" src="https://skillicons.dev/icons?i=linux,arch,ubuntu,cmake,git,vscode" />
 </p>
 
----
-
-<h3 align="center">Featured Projects</h3>
+<h2 align="center">Featured Projects</h2>
 
 <table align="center">
   <tr>
@@ -84,7 +80,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=LOGFORGE-OBSERVABILITY&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10&description_lines_count=2&cache_seconds=86400" />
       </a>
       <br />
-      <sub>Log parser + <code>/metrics</code> endpoint wired to Prometheus &amp; Grafana (Docker Compose demo).</sub>
+      Log parser + <code>/metrics</code> endpoint wired to Prometheus &amp; Grafana (Docker Compose demo).
     </td>
     <td align="center">
       <a href="https://github.com/Gengo250/conversor-pdf-cpp">
@@ -92,7 +88,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=conversor-pdf-cpp&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10&description_lines_count=2&cache_seconds=86400" />
       </a>
       <br />
-      <sub>C++20 web app with async jobs: Crow + Redis Streams + MariaDB + LibreOffice headless.</sub>
+      C++20 web app with async jobs: Crow + Redis Streams + MariaDB + LibreOffice headless.
     </td>
   </tr>
   <tr>
@@ -102,7 +98,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=MiniCacheDB&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10&description_lines_count=2&cache_seconds=86400" />
       </a>
       <br />
-      <sub>C++20 TCP key-value server (mini Redis): thread pool, optional TTL, AOF and tests.</sub>
+      C++20 TCP key-value server (mini Redis): thread pool, optional TTL, AOF and tests.
     </td>
     <td align="center">
       <a href="https://github.com/Gengo250/CrowAuthSessions-MariaDB">
@@ -110,7 +106,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
           src="https://github-readme-stats.vercel.app/api/pin/?username=Gengo250&repo=CrowAuthSessions-MariaDB&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D&border_radius=10&description_lines_count=2&cache_seconds=86400" />
       </a>
       <br />
-      <sub>Authentication + sessions persisted in MariaDB, protected routes on a C++20 web stack.</sub>
+      Authentication + sessions persisted in MariaDB, protected routes on a C++20 web stack.
     </td>
   </tr>
 </table>
@@ -122,9 +118,7 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   </a>
 </p>
 
----
-
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
