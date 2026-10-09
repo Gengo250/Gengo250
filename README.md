@@ -6,9 +6,9 @@
 </a>
 
 <p>
-  <img height="28" alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGengo250&query=%24.public_repos&label=Repositories&style=flat&logo=buffer&logoColor=22D3EE&labelColor=0D1117&color=161B22" />
-  <img height="28" alt="Stars earned" src="https://img.shields.io/github/stars/Gengo250?style=flat&logo=apachespark&logoColor=22D3EE&label=Stars&labelColor=0D1117&color=161B22" />
-  <img height="28" alt="Contributions in the last year" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FGengo250%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20(1y)&style=flat&logo=fitbit&logoColor=22D3EE&labelColor=0D1117&color=161B22" />
+  <img height="30" alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGengo250&query=%24.public_repos&label=Repositories&style=flat&logo=buffer&logoColor=22D3EE&labelColor=0D1117&color=161B22" />
+  <img height="30" alt="Stars earned" src="https://img.shields.io/github/stars/Gengo250?style=flat&logo=apachespark&logoColor=22D3EE&label=Stars&labelColor=0D1117&color=161B22" />
+  <img height="30" alt="Contributions in the last year" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FGengo250%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20(1y)&style=flat&logo=fitbit&logoColor=22D3EE&labelColor=0D1117&color=161B22" />
 </p>
 
 [<img alt="LinkedIn" height="52" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
@@ -129,9 +129,6 @@ Sempre tive o objetivo de me tornar um engenheiro completo, capaz de unir hardwa
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gengo250&theme=github_dark" />
 <img width="32%" alt="Top Languages by Repo"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gengo250&theme=github_dark" />
-<img width="32%" alt="Productive Time"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gengo250&theme=github_dark&utcOffset=-3" />
-
 </div>
 
 ---
